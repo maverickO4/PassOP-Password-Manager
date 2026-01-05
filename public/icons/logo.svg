@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="512"
+  height="512"
+  viewBox="0 0 512 512"
+  role="img"
+  aria-label="Password Manager Logo">
+
+  <title>Password Manager Logo</title>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="512" height="512" rx="96" fill="#0F172A"/>
+
+  <!-- Shield -->
+  <path
+    d="M256 96
+       C200 128 152 140 152 140
+       V256
+       C152 336 204 392 256 416
+       C308 392 360 336 360 256
+       V140
+       C360 140 312 128 256 96Z"
+    fill="#1E293B"/>
+
+  <!-- Lock body -->
+  <rect x="192" y="240" width="128" height="112" rx="20" fill="#F97316"/>
+
+  <!-- Lock shackle -->
+  <path
+    d="M216 240
+       V212
+       C216 180 236 160 256 160
+       C276 160 296 180 296 212
+       V240"
+    fill="none"
+    stroke="#F97316"
+    stroke-width="16"
+    stroke-linecap="round"/>
+
+  <!-- Keyhole -->
+  <circle cx="256" cy="284" r="12" fill="#0F172A"/>
+  <rect x="250" y="284" width="12" height="28" rx="6" fill="#0F172A"/>
+
+</svg>
