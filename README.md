@@ -33,10 +33,12 @@ This project focuses on proper CRUD handling, state management, and backend data
 ---
 
 ## 📁 Project Structure
-PassOP - Your own password manager/
-├── src/ # Frontend source code
-├── public/ # Static assets
-├── backend/ # Express server & database logic
+
+
+PassOP - Your own password manager/  
+├── src/ # Frontend source code  
+├── public/ # Static assets  
+├── backend/ # Express server & database logic  
 └── README.md
 
 ---
@@ -44,23 +46,39 @@ PassOP - Your own password manager/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
+
 `git clone https://github.com/maverickO4/PassOP-Password-Manager.git`
+
 `cd PassOP-Password-Manager`
 
+
+
 2️⃣ Backend setup
+
 `cd backend`
+
 `npm install`
+
 
 Create a .env file in backend/:
+
 `MONGODB_URI=mongodb://localhost:27017`
+
 `PORT=3000`
 
+
 Start the backend server:
+
 `node server.js`
 
+
+
 3️⃣ Frontend setup
+
 `cd ..`
+
 `npm install`
+
 `npm run dev`
 
 
@@ -83,7 +101,7 @@ Start the backend server:
 
 ## 👨‍💻 Author
 
-Sayantan Das
+Sayantan Das  
 Bachelor of Computer Applications (BCA) student.
 
 GitHub: https://github.com/maverickO4
