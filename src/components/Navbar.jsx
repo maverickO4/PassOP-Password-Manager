@@ -9,7 +9,7 @@ const Navbar = () => {
           Pass
           <span className="text-orange-500">OP/&gt;</span>
         </div>
-        <button className="text-white bg-orange-700 my-5 flex justify-between items-center ring-1 hover:ring-2 ring-white hover:scale-105 transition-all duration-300 active:scale-95 cursor-pointer rounded-lg">
+        <button className="text-white bg-orange-700 my-5 flex justify-between items-center ring-1 hover:ring-2 ring-white hover:scale-105 transition-all duration-300 active:scale-95 cursor-pointer rounded-lg" onClick={()=> window.open("https://github.com/maverickO4/PassOP-Password-Manager.git", "_blank")}>
           <img
             className="invert p-1 w-10"
             src="/icons/github.svg"
