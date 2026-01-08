@@ -104,4 +104,4 @@ Start the backend server:
 Sayantan Das  
 Bachelor of Computer Applications (BCA) student.
 
-GitHub: https://github.com/maverickO4
+LinkedIn: https://www.linkedin.com/in/sayantan-d-b9a5b9326
